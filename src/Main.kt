@@ -1,6 +1,6 @@
 var char = 'A'
 var orangganteng = "Fachri ganteng"
-var orangjelek = "Rasyid"
+var orangjelek = "Aku"
 var p = 1
 
 fun main() {
@@ -13,5 +13,10 @@ fun main() {
         }
         p++
     }
+    baru()
 }
 
+fun baru() {
+    var cri = "Dra"
+    println(cri)
+}
